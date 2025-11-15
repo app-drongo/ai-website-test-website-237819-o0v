@@ -8,7 +8,7 @@ type BackgroundPattern = 'dots' | 'grid' | 'gradient';
 
 const DEFAULT_HERO = {
   badge: 'Trusted by developers worldwide',
-  title: 'Build modern web apps',
+  title: 'SWAP Test',
   titleHighlight: 'effortlessly',
   subtitle:
     'A minimal, powerful platform for creating beautiful web applications with clean code and seamless user experiences.',
